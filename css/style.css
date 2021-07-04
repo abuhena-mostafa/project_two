@@ -275,8 +275,8 @@ color: #535D69;
 
 }
 .feature1:hover{
-        box-shadow: 0.2rem 0.1rem 0.7rem 0 rgb(0 0 0 / 20%);
-         transform: translateY(-.9rem);
+     box-shadow: 0.2rem 0.1rem 0.7rem 0 rgb(0 0 0 / 20%);
+    transform: translateY(-.9rem);
 }
 .footer{
     margin-top: 50px;
